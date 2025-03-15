@@ -1,3 +1,15 @@
+<br/><br/>
+<div align="center"> 
+  <img src="https://profile-counter.glitch.me/Zhodisov/count.svg" alt="Visitor's Count" />
+</div>
+<br/><br/>
+
+## 🌐 Socials:
+[![YOUTUBE](https://img.shields.io/badge/Youtube-fc0000?style=for-the-badge&logo=YOUTUBE&logoColor=white)](https://www.youtube.com/@Jodis974)
+[![Discord](https://img.shields.io/badge/Discord-6a85b9?style=for-the-badge&logo=discord&logoColor=white)](https://safemarket.xyz/discord)
+[![Safemarket Email](https://img.shields.io/badge/safemarket_email-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:support-checkout@safemarket.xyz)
+[![safemarket.xyz](https://img.shields.io/badge/safemarket.xyz-0077B5?style=for-the-badge&logo=internet&logoColor=white)](https://safemarket.xyz/)
+
 <a href="#home"><img src="https://github.com/Fadi002/de4py/blob/main/Pictures/de4py.jpg?raw=true"></img></a>
 # de4py
 <p align="center"><b>important note: IF YOU ARE A SKID AND DON'T KNOW HOW TO CODE OR USE AI TO CODE AND HAVE NO EXPERIENCE AT ALL THEN THIS TOOL IS NOT FOR YOU !!!</b></p>
